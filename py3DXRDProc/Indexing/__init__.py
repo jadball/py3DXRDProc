@@ -24,4 +24,4 @@ __version__ = "0.1.0"
 __author__ = 'James Ball',
 __author_email__ = 'james.ball@diamond.ac.uk'
 
-__all__ = ['bootstrap_map', 'clean_flt', 'correct_module_distortion', 'custom_corrector', 'custom_gip_queues', 'filter_peaks', 'makemap_module', 'merge_flt_module', 'new_peaksearcher', 'old_peaksearcher', 'ps_dset_builder']
+__all__ = ['bootstrap_map', 'clean_flt', 'clean_flt2', 'correct_module_distortion', 'custom_corrector', 'custom_gip_queues', 'filter_peaks', 'makemap_module', 'merge_flt_module', 'new_peaksearcher', 'old_peaksearcher', 'ps_dset_builder']

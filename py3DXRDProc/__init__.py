@@ -22,7 +22,7 @@ with py3DXRDProc. If not, see <https://www.gnu.org/licenses/>.
 
 __version__ = "0.1.0"
 __author__ = 'James Ball',
-__author_email__ = 'james.ball@diamond.ac.uk'
+__author_email__ = 'jadball@gmail.com'
 
 __all__ = ['grain', 'grain_map', 'grain_volume', 'load_step', 'sample', 'io_tools', 'conversions', 'parse_input_file', 'cluster', 'Indexing', 'phase']
 
