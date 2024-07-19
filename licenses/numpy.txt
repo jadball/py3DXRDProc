@@ -1,0 +1,58 @@
+Name: numpy
+Files: py3DXRDProc/conversions.py
+       py3DXRDProc/grain.py
+       py3DXRDProc/grain_map.py
+       py3DXRDProc/grain_volume.py
+       py3DXRDProc/load_step.py
+       py3DXRDProc/phase.py
+       py3DXRDProc/sample.py
+       py3DXRDProc/Indexing/bootstrap_map.py
+       py3DXRDProc/Indexing/correct_module_distortion.py
+       py3DXRDProc/Indexing/custom_corrector.py
+       py3DXRDProc/Indexing/custom_gip_queues.py
+       py3DXRDProc/Indexing/filter_peaks.py
+       py3DXRDProc/Indexing/makemap_module.py
+       py3DXRDProc/Indexing/merge_flt_module.py
+       py3DXRDProc/Indexing/new_peaksearcher.py
+       py3DXRDProc/Indexing/old_peaksearcher.py
+       py3DXRDProc/Indexing/ps_dset_builder.py
+       scripts/Indexing/index_one_scan_local.py
+       scripts/Indexing/Cluster/index_one_scan.py
+       tests/test_base_grain.py
+       tests/test_base_map_grain.py
+       tests/test_clean_grain.py
+       tests/test_grain_functions.py
+       tests/test_stitch_grain.py
+       tests/test_track_grain.py
+License: 3-clause BSD
+
+Copyright (c) 2005-2022, NumPy Developers.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+    * Redistributions of source code must retain the above copyright
+       notice, this list of conditions and the following disclaimer.
+
+    * Redistributions in binary form must reproduce the above
+       copyright notice, this list of conditions and the following
+       disclaimer in the documentation and/or other materials provided
+       with the distribution.
+
+    * Neither the name of the NumPy Developers nor the names of any
+       contributors may be used to endorse or promote products derived
+       from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.

@@ -1,0 +1,43 @@
+#translation: 100 200 300
+#name 0:test
+#intensity_info mean = 100
+#npks 78
+#nuniq 73
+#Rod 0.651953 -0.141753 -0.433538
+#UBI:
+3 0 0
+0 3 0
+0 0 3
+
+#translation: 200 300 400
+#name 1:test
+#intensity_info mean = 150
+#npks 56
+#nuniq 49
+#Rod -0.971800 0.078575 -0.493237
+#UBI:
+0 3 0
+-3 0 0
+0 0 3
+
+#translation: 300 400 500
+#name 2:test
+#intensity_info mean = 50
+#npks 76
+#nuniq 70
+#Rod -0.080070 0.175096 -0.007626
+#UBI:
+3 0 0
+0 0 -3
+0 3 0
+
+#translation: -100 100 100
+#name 3:test
+#intensity_info mean = 50
+#npks 76
+#nuniq 70
+#Rod -0.080070 0.175096 -0.007626
+#UBI:
+-3 0 0
+0 -3 0
+0 0 -3
