@@ -32,6 +32,7 @@ openpyxl = "^3.1.2"
 pycpd = "^2.0.0"
 # charset-normalizer = "^3.1.0"  # Needed cause of a bug in poetry
 urllib3 = "^2.1.0"  # Needed cause of a bug in poetry
+requests = "^2.32.3"
 
 [tool.poetry.group.test.dependencies]
 pytest = "^7.4.3"
